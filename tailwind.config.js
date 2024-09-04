@@ -11,11 +11,14 @@ export default {
           one: "#111111",
         },
         divider: {
-          main: "#cccccc",
+          main: "#aaaaaa",
         },
         text: {
           on_surface_one: {
             main: "#ffffff",
+          },
+          on_background: {
+            main: "#111111",
           },
         },
       },
