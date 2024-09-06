@@ -20,6 +20,10 @@ export default {
         text: {
           on_surface_one: {
             main: "#ffffff",
+            800: "#ffffffcc",
+            600: "#ffffff99",
+            400: "#ffffff66",
+            200: "#ffffffcc",
           },
           on_surface_two: {
             main: "#111111",
