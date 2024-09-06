@@ -22,7 +22,7 @@ const JobItem = ({ index }: Props) => {
           <div className="h-9 flex items-center justify-center text-sm font-medium text-text-on_surface_two-main px-3 rounded-full bg-surface-two">
             20 May,2023
           </div>
-          <div className="w-9 h-9 rounded-full flex items-center justify-center bg-surface-tw cursor-pointer"></div>
+          <div className="w-9 h-9 rounded-full flex items-center justify-center bg-surface-two cursor-pointer"></div>
         </div>
         <div className="text-sm text-text-on_surface_two-main font-medium mt-5">
           Amazon

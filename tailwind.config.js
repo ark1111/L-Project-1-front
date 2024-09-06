@@ -14,6 +14,9 @@ export default {
         divider: {
           main: "#aaaaaa",
         },
+        primary: {
+          main: "#111111",
+        },
         text: {
           on_surface_one: {
             main: "#ffffff",
