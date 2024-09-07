@@ -13,6 +13,7 @@ export default {
         },
         divider: {
           main: "#aaaaaa",
+          660:"#aaaaaa99"
         },
         primary: {
           main: "#111111",
